@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# Betriebssystem-Dateien
+*.DS_Store
+Thumbs.db
+
+# Ordner, die nicht ins Repo sollen
+node_modules/
